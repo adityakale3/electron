@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/adityakale3/electron_app_first#readme",
   "dependencies": {
-    "electron": "^9.0.5"
+    "electron": "^9.3.1"
   }
 }
